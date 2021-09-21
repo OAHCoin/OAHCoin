@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1>A eco friendly micropayment system and digitial currency.</h1>
 
-<!--
-**OAHCoin/OAHCoin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<ul>
+<li>X15 PoW/PoS Coin (Proof of work then Proof of stake)</li>
+<li>Algorithm: X15 PoW / PoS</li>
+<li>Ticker: OAH</li>
+<li>PoW Started : Block 0</li>
+<li>PoW Ends : Block 20,000</li>
+<li>Max PoW Coins: 110,000,000 OAH</li>
+<li>Timing of block (in seconds) : 60</li>
+<li>PoS 5% Annual Interest</li>
+<li>Max stake age : 90 Days</li>
+<li>Min stake age : 11 Days</li>
+<li>50 confirmations required for mined blocks</li>
+<li>6 confirmations required for transactions</li>
+  </ul>
