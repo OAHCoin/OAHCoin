@@ -1,0 +1,9 @@
+Building OldAgeHomeCoin
+
+See doc/readme-qt.rst for instructions on building OldAgeHomeCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of OldAgeHomeCoin.
+
+See doc/build-*.txt for instructions on building OldAgeHomeCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of OldAgeHomeCoin.
